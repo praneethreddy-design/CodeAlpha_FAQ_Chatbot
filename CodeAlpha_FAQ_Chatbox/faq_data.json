@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level programming language used for web development, AI, data science, and automation."
+    },
+    {
+        "question": "What is Flask?",
+        "answer": "Flask is a lightweight Python web framework used to build web applications."
+    },
+    {
+        "question": "What is HTML?",
+        "answer": "HTML is the standard markup language used to create the structure of web pages."
+    },
+    {
+        "question": "What is CSS?",
+        "answer": "CSS is used to design and style HTML web pages."
+    },
+    {
+        "question": "What is JavaScript?",
+        "answer": "JavaScript is a programming language used to add interactivity and dynamic features to websites."
+    },
+    {
+        "question": "What is machine learning?",
+        "answer": "Machine learning is a branch of AI where computers learn patterns from data and make predictions."
+    },
+    {
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial intelligence is the simulation of human intelligence in machines."
+    },
+    {
+        "question": "What is an API?",
+        "answer": "API allows different software applications to communicate with each other."
+    },
+    {
+        "question": "What is JSON?",
+        "answer": "JSON is a lightweight data format used to store and exchange information."
+    },
+    {
+        "question": "What is a database?",
+        "answer": "A database is an organized collection of data that can be stored and accessed efficiently."
+    },
+    {
+        "question": "What is frontend?",
+        "answer": "Frontend is the part of a website that users interact with, built using HTML, CSS, and JavaScript."
+    },
+    {
+        "question": "What is backend?",
+        "answer": "Backend is the server-side part of an application that handles logic, databases, and APIs."
+    },
+    {
+        "question": "What is GitHub?",
+        "answer": "GitHub is a platform used for storing, managing, and sharing code projects."
+    },
+    {
+        "question": "What is AI?",
+        "answer": "AI enables machines to perform tasks that normally require human intelligence."
+    },
+    {
+        "question": "What is Flask used for?",
+        "answer": "Flask is used for creating web applications and connecting frontend interfaces with Python backend logic."
+    }
+]
